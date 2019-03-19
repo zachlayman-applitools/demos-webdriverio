@@ -1,0 +1,23 @@
+{
+  "name": "demos-webdriverio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@applitools/eyes.webdriverio": "^2.1.0-beta.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachlayman-applitools/demos-webdriverio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zachlayman-applitools/demos-webdriverio/issues"
+  },
+  "homepage": "https://github.com/zachlayman-applitools/demos-webdriverio#readme"
+}
